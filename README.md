@@ -1,6 +1,6 @@
 # CDC-NodeJs-Yellow
 
-Assignment for CDC- NodeJS Yellow belt
+Assignment for CDC- NodeJS Yellow belt (Todo App)
 
 ## Installation
 Might just installing nodemon, really not using any module except http and fs
